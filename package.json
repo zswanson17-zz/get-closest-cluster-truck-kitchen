@@ -1,10 +1,9 @@
 {
-  "name": "cluster-truck-4-zswanson",
+  "name": "get-closest-cluster-truck-kitchen",
   "version": "1.0.0",
   "description": "Cluster Truck take home problem #4",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "debug": "node debug.js"
   },
   "author": "Zach Swanson",
